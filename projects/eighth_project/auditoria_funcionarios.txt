@@ -1,0 +1,19 @@
+Funcionário 2 | Cliente 591 | R$ 11.99
+Funcionário 2 | Cliente 237 | R$ 11.99
+Funcionário 1 | Cliente 362 | R$ 11.99
+Funcionário 1 | Cliente 592 | R$ 11.99
+Funcionário 2 | Cliente 195 | R$ 11.99
+Funcionário 2 | Cliente 116 | R$ 11.99
+Funcionário 2 | Cliente 196 | R$ 11.99
+Funcionário 2 | Cliente 13 | R$ 11.99
+Funcionário 2 | Cliente 204 | R$ 11.99
+Funcionário 1 | Cliente 305 | R$ 11.99
+Funcionário 2 | Cliente 12 | R$ 10.99
+Funcionário 2 | Cliente 2 | R$ 10.99
+Funcionário 1 | Cliente 76 | R$ 10.99
+Funcionário 1 | Cliente 86 | R$ 10.99
+Funcionário 1 | Cliente 78 | R$ 10.99
+
+Total de funcionários: 15
+Total de Pagamentos, pertencentes ao funcionario 1: 6
+Total de Pagamentos, pertencentes ao funcionario 2: 9
