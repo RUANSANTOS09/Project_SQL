@@ -14,6 +14,6 @@ Funcionário 1 | Cliente 76 | R$ 10.99
 Funcionário 1 | Cliente 86 | R$ 10.99
 Funcionário 1 | Cliente 78 | R$ 10.99
 
-Total de funcionários: 15
+Total de Pagamentos: 15
 Total de Pagamentos, pertencentes ao funcionario 1: 6
 Total de Pagamentos, pertencentes ao funcionario 2: 9
