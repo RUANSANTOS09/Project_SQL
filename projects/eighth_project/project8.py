@@ -12,6 +12,7 @@ connection = mysql.connector.connect(
     database = 'sakila'
 )
 
+
 cursor = connection.cursor()
 command_sql = "SELECT staff_id, customer_id, amount FROM payment WHERE amount > %s ORDER BY amount desc LIMIT %s"
 values = (7,15)
