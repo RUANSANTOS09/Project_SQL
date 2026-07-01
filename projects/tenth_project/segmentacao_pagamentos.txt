@@ -1,0 +1,54 @@
+Cliente 297 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 104 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 221 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 300 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 206 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 196 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 304 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 45 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 292 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 33 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 301 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 2 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 136 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 127 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 276 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 21 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 200 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 203 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 49 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 129 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 76 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 3 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 86 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 331 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 114 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 307 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 310 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 12 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 289 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 187 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 272 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 163 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 220 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 54 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 149 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 148 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 140 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 259 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 168 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 245 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 178 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 232 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 260 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 212 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 78 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 87 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 148 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+Cliente 29 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 50 | Funcionário  2 | R$ 10.99 | Faixa: Alto
+Cliente 277 | Funcionário  1 | R$ 10.99 | Faixa: Alto
+
+Total de vendas baixas: 0
+Total de vendas médias: 0
+Total de vendas altas: 50
