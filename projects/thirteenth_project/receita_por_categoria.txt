@@ -1,0 +1,17 @@
+0. Drama | SCORPION APOLLO | R$ 11.99
+1. Comedy | FLINTSTONES HAPPINESS | R$ 11.99
+2. Drama | SCORPION APOLLO | R$ 11.99
+3. Documentary | SHOW LORD | R$ 11.99
+4. Foreign | TRAP GUYS | R$ 11.99
+5. Children | TIES HUNGER | R$ 11.99
+6. Family | VIRTUAL SPOILERS | R$ 11.99
+7. New | STING PERSONAL | R$ 11.99
+8. New | MINE TITANS | R$ 11.99
+9. Documentary | MIDSUMMER GROUNDHOG | R$ 11.99
+10. Travel | TEEN APOLLO | R$ 10.99
+11. Action | CASUALTIES ENCINO | R$ 10.99
+12. Drama | PATHS CONTROL | R$ 10.99
+13. Foreign | TRAP GUYS | R$ 10.99
+14. Comedy | PINOCCHIO SIMON | R$ 10.99
+
+Total: 15
