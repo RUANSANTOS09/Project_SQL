@@ -1,0 +1,13 @@
+1 | English
+2 | Italian
+3 | Japanese
+5 | French
+6 | German
+9 | Portuguese
+12 | Polish
+13 | Spanish
+16 | Arabic
+17 | Hindi
+20 | South Korean
+
+Total de linguas: 11
