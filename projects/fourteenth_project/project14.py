@@ -7,6 +7,7 @@ connection = mysql.connector.connect(
 )
 cursor = connection.cursor()
 query = """
+
 SELECT
      stf.first_name,
      stf.last_name,
