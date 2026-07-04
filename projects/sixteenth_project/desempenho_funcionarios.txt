@@ -1,0 +1,4 @@
+Funcionário 1 | Maior: R$11.99 | Menor R$2.99 | Média: 5.08 | Total: 31263.37
+Funcionário 2 | Maior: R$11.99 | Menor R$2.99 | Média: 5.11 | Total: 31931.36
+
+Total de funcionários: 2
