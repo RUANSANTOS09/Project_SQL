@@ -35,3 +35,6 @@ final_report.append(f'\nTotal de linguas: {final_total}\n')
 
 with open('relatorio_idiomas.txt', 'w', encoding='utf-8') as f:
     f.writelines(final_report)
+
+cursor.close()
+connection.close()
