@@ -1,0 +1,97 @@
+1. Ouro Karl Seal | Região: Florida | Total: 221.55 | Compras: 45
+2. Ouro Eleanor Hunt | Região: Saint-Denis | Total: 216.54 | Compras: 46
+3. Ouro Clara Shaw | Região: Minsk | Total: 195.58 | Compras: 42
+4. Ouro Marion Snyder | Região: São Paulo | Total: 194.61 | Compras: 39
+5. Ouro Rhonda Kennedy | Região: Gelderland | Total: 194.61 | Compras: 39
+6. Ouro Tommy Collazo | Região: Esfahan | Total: 186.62 | Compras: 38
+7. Prata Wesley Bull | Região: Galicia | Total: 177.60 | Compras: 40
+8. Prata Tim Cary | Região: Karnataka | Total: 175.61 | Compras: 39
+9. Prata Marcia Dean | Região: Southern Tagalog | Total: 175.58 | Compras: 42
+10. Prata Ana Bradley | Região: Tennessee | Total: 174.66 | Compras: 34
+11. Prata June Carroll | Região: Skikda | Total: 173.63 | Compras: 37
+12. Prata Diane Collins | Região: Khartum | Total: 169.65 | Compras: 35
+13. Prata Lena Jensen | Região: West Bengali | Total: 168.68 | Compras: 32
+14. Prata Arnold Havens | Região: Southern Tagalog | Total: 167.67 | Compras: 33
+15. Prata Curtis Irby | Região: Ontario | Total: 167.62 | Compras: 38
+16. Prata Mike Way | Região: Tamil Nadu | Total: 166.65 | Compras: 35
+17. Prata Daisy Bates | Região: Pietari | Total: 162.62 | Compras: 38
+18. Prata Tonya Chapman | Região: Rajasthan | Total: 161.68 | Compras: 32
+19. Prata Louis Leone | Região: Southern Tagalog | Total: 161.65 | Compras: 35
+20. Prata Gordon Allard | Região: Hodeida | Total: 160.68 | Compras: 32
+21. Prata Guy Brownlee | Região: Zhejiang | Total: 159.68 | Compras: 32
+22. Prata Warren Sherrod | Região: Irkutsk | Total: 159.67 | Compras: 33
+23. Prata Margie Wade | Região: Hunan | Total: 159.64 | Compras: 36
+24. Prata Mae Fletcher | Região: Baskimaa | Total: 158.69 | Compras: 31
+25. Prata Steve Mackenzie | Região: East Java | Total: 158.66 | Compras: 34
+26. Prata Priscilla Lowe | Região: Guanajuato | Total: 157.65 | Compras: 35
+27. Prata Harry Arce | Região: Esfahan | Total: 157.65 | Compras: 35
+28. Prata Arthur Simpkins | Região: Adygea | Total: 155.68 | Compras: 32
+29. Prata Michelle Clark | Região: Dhaka | Total: 155.65 | Compras: 35
+30. Prata Tammy Sanders | Região: Changhwa | Total: 155.59 | Compras: 41
+31. Prata Sue Peters | Região: Ji´angsu | Total: 154.60 | Compras: 40
+32. Prata Sherry Marshall | Região: al-Qalyubiya | Total: 153.66 | Compras: 34
+33. Prata Neil Renner | Região: Khanh Hoa | Total: 152.68 | Compras: 32
+34. Prata Shawn Heaton | Região: Nakhon Sawan | Total: 152.67 | Compras: 33
+35. Prata Jessica Hall | Região:  | Total: 152.66 | Compras: 34
+36. Prata Naomi Jennings | Região: Haryana | Total: 152.65 | Compras: 35
+37. Prata Leslie Seward | Região: Kalimantan Barat | Total: 152.65 | Compras: 35
+38. Prata Brandon Huey | Região: Balikesir | Total: 152.63 | Compras: 37
+39. Prata Maria Miller | Região: Central Serbia | Total: 151.67 | Compras: 33
+40. Prata Alex Gresham | Região: Michoacn de Ocampo | Total: 151.67 | Compras: 33
+41. Prata Stacey Montgomery | Região: Jilin | Total: 151.66 | Compras: 34
+42. Prata Alma Austin | Região: Baden-Wrttemberg | Total: 151.65 | Compras: 35
+43. Prata Alexander Fennell | Região: Lombardia | Total: 151.64 | Compras: 36
+44. Prata Marsha Douglas | Região: Sofala | Total: 151.63 | Compras: 37
+45. Prata Ralph Madrigal | Região: Arecibo | Total: 150.66 | Compras: 34
+46. Prata Billy Poulin | Região: Southern Tagalog | Total: 149.65 | Compras: 35
+47. Prata Duane Tubbs | Região:  | Total: 148.69 | Compras: 31
+48. Prata Jacqueline Long | Região: Songkhla | Total: 148.67 | Compras: 33
+49. Prata Christopher Greco | Região: Lombardia | Total: 147.69 | Compras: 31
+50. Prata Rosemary Schmidt | Região: Usak | Total: 147.65 | Compras: 35
+51. Prata Gladys Hamilton | Região: Kwara & Kogi | Total: 146.69 | Compras: 31
+52. Prata Zachary Hite | Região: Ohio | Total: 146.69 | Compras: 31
+53. Prata Roger Quintanilla | Região: Taipei | Total: 146.64 | Compras: 36
+54. Prata Nicholas Barfield | Região: Par | Total: 145.68 | Compras: 32
+55. Prata Bernice Willis | Região: Batman | Total: 145.67 | Compras: 33
+56. Prata Olga Jimenez | Região: Oyo & Osun | Total: 144.68 | Compras: 32
+57. Prata Tanya Gilbert | Região: Chollanam | Total: 144.67 | Compras: 33
+58. Prata Janice Ward | Região: Skne ln | Total: 144.66 | Compras: 34
+59. Prata Elizabeth Brown | Região: Nantou | Total: 144.62 | Compras: 38
+60. Prata Sylvia Ortiz | Região: Risaralda | Total: 143.68 | Compras: 32
+61. Prata Minnie Romero | Região: West Java | Total: 142.66 | Compras: 34
+62. Prata Catherine Campbell | Região: Moscow (City) | Total: 142.66 | Compras: 34
+63. Prata Lori Wood | Região: Uttar Pradesh | Total: 141.69 | Compras: 31
+64. Prata Sara Perry | Região: Puebla | Total: 141.67 | Compras: 33
+65. Prata Jessie Milam | Região: Shandong | Total: 141.67 | Compras: 33
+66. Prata Casey Mena | Região: Tokat | Total: 141.66 | Compras: 34
+67. Prata Elsie Kelley | Região: Ondo & Ekiti | Total: 141.63 | Compras: 37
+68. Prata Ramon Choate | Região: Chimborazo | Total: 140.69 | Compras: 31
+69. Prata Glenda Frazier | Região: Hebei | Total: 140.68 | Compras: 32
+70. Prata Angela Hernandez | Região: Yamaguchi | Total: 140.64 | Compras: 36
+71. Prata Grace Ellis | Região: Nordrhein-Westfalen | Total: 139.67 | Compras: 33
+72. Prata Morris Mccarter | Região: Kaohsiung | Total: 139.66 | Compras: 34
+73. Prata Charles Kowalski | Região: Kedah | Total: 138.68 | Compras: 32
+74. Prata Alice Stewart | Região: California | Total: 138.67 | Compras: 33
+75. Prata Brett Cornwell | Região: West Bengali | Total: 138.66 | Compras: 34
+76. Prata John Farnsworth | Região: Maharashtra | Total: 137.69 | Compras: 31
+77. Prata Ella Oliver | Região: Aden | Total: 137.69 | Compras: 31
+78. Prata Crystal Ford | Região: Ha Darom | Total: 137.67 | Compras: 33
+79. Prata Gertrude Castillo | Região: Kitaa | Total: 137.66 | Compras: 34
+80. Prata Russell Brinson | Região: Slaskie | Total: 136.64 | Compras: 36
+81. Prata Dianne Shelton | Região: East Azerbaidzan | Total: 135.69 | Compras: 31
+82. Prata Ethel Webb | Região: Gauteng | Total: 135.68 | Compras: 32
+83. Prata Javier Elrod | Região: Chari-Baguirmi | Total: 135.68 | Compras: 32
+84. Prata Regina Berry | Região: Gansu | Total: 135.66 | Compras: 34
+85. Prata Julia Flores | Região: Buenos Aires | Total: 134.68 | Compras: 32
+86. Prata Helen Harris | Região: Madhya Pradesh | Total: 134.68 | Compras: 32
+87. Prata Mitchell Westmoreland | Região: Khanh Hoa | Total: 134.68 | Compras: 32
+88. Prata Dave Gardiner | Região: Sichuan | Total: 134.68 | Compras: 32
+89. Prata Barry Lovelace | Região: Copperbelt | Total: 134.67 | Compras: 33
+90. Prata Jorge Olivares | Região: Aceh | Total: 134.66 | Compras: 34
+91. Prata Courtney Day | Região: Kyonggi | Total: 132.68 | Compras: 32
+92. Prata George Linton | Região: São Paulo | Total: 131.67 | Compras: 33
+93. Prata Harold Martino | Região: Roraima | Total: 130.68 | Compras: 32
+94. Prata Debbie Reyes | Região: Hiroshima | Total: 130.68 | Compras: 32
+
+Total de clientes Ouro: 6
+Total de clientes Prata: 88
