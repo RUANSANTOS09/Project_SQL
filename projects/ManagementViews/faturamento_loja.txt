@@ -1,0 +1,4 @@
+1. Numero de identificação da loja: 2 | Total de vendas: 33924.06
+2. Numero de identificação da loja: 1 | Total de vendas: 33482.50
+
+Total de registros: 2
