@@ -34,5 +34,6 @@ report.append(f'\nTotal de registros: {total_register}')
 with open('registration_standardization.txt', 'w', encoding='utf-8') as f:
     f.writelines(report)
 
+
 cursor.close()
 connection.close()
