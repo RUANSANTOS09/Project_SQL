@@ -1,0 +1,6 @@
+1. Nome: Alexa | Faturamento R$45000.00
+2. Nome: Luan | Faturamento R$35000.00
+3. Nome: Valdemir | Faturamento R$25000.00
+4. Nome: Pedro | Faturamento R$18000.00
+
+Total registro: 4
