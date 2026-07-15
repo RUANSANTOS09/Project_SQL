@@ -1,0 +1,4 @@
+1. Espécie: Cachorro | Nome : Max | Situação : Disponível
+2. Espécie: Gato | Nome : Luna | Situação : Disponível
+
+Total de registros: 2
